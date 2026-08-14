@@ -1,131 +1,121 @@
 <div align="center">
 
-# Pratham This side!!! 👋
+# Hey, I'm Pratham 👋
 
 ### Python • AI/ML • LLMs • AI Agents • FastAPI • PyTorch • Linux
 
-**Teaching computers to think. Breaking Linux. Building things I probably didn't need to build.**
+Teaching computers to think. Breaking Linux. Starting too many side projects.  
+Powered by curiosity & caffeine.
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 What I'm Into
 
-I'm a CSE student focused on **AI/ML and software development**, learning by building real projects and experimenting with new ideas.
-
-* 🤖 Exploring **AI, ML, LLMs & AI agents**
-* 🐍 Building with **Python**
-* ⚡ Developing **APIs and AI-powered applications**
-* 🧠 Experimenting with **local LLMs and GPU computing**
-* 🐧 Running **Arch Linux + Hyprland** as my daily environment
-* 🔨 Learning by building, breaking, debugging, and rebuilding
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 LLM applications and AI agents
+- 🐍 Python development
+- ⚙️ Backend and API development
+- 🐧 Linux, Arch Linux & system customization
+- 🚀 Building projects and experimenting with ideas
 
 ---
 
-## 🚀 What I'm Building
-
-### 🤖 AI & LLM Projects
-
-Building applications around **LLMs, AI agents, automation, and decision systems**.
-
-I'm particularly interested in making AI systems that can **actually do things**, rather than just generate text.
+## 🔨 Featured Project
 
 ### 🐧 Linux-DotFiles
 
-My personal **Arch Linux + Hyprland** environment.
+My personal **Arch Linux + Hyprland** desktop environment.
 
-A customized development and productivity setup featuring:
+A minimal and modern setup focused on development, productivity, and gaming, featuring a customized Waybar, Wofi, Kitty, live wallpapers, notifications, and a glass-inspired desktop.
 
-`Hyprland` `Waybar` `Wofi` `Kitty` `Quickshell` `SwayNC`
-
-→ **[Explore the dotfiles](https://github.com/praathaaammmmm/Linux-DotFiles)**
+→ [View Linux-DotFiles](https://github.com/praathaaammmmm/Linux-DotFiles)
 
 ---
 
-## ⚙️ Tech Stack
+## 🤖 AI / Development
 
-### Languages
+Currently working with:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+**AI / ML**
+- Python
+- PyTorch
+- LLM applications
+- Local LLMs
+- Ollama
+- AI agents
+- LangGraph
+- CUDA / GPU computing
+
+**Backend**
+- FastAPI
+- REST APIs
+- HTTP / Requests
+- JSON
+- Python virtual environments
+
+**Systems**
+- Linux
+- Arch Linux
+- Hyprland
+- Wayland
+- Bash
+- Shell scripting
+- System configuration
+
+**Tools**
+- Git
+- GitHub
+- Docker
+- Kitty
+- Quickshell
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### AI / ML
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-
-`LLMs` `AI Agents` `LangGraph` `Local AI`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 
-`REST APIs` `HTTP` `JSON` `Requests`
+### Systems
 
-### Systems & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge\&logo=archlinux\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-`Hyprland` `Wayland` `Bash` `Kitty` `Quickshell` `Docker`
-
----
-
-## 📚 Currently Learning
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-LLMs & Transformers
-      ↓
-AI Agents
-      ↓
-Production AI Systems
-```
-
-Along the way:
-
-`Python` → `FastAPI` → `PyTorch` → `CUDA` → `System Design`
-
----
-
-## 🎯 Current Side Quests
-
-* 🧠 Go deeper into **Machine Learning & Deep Learning**
-* 🤖 Build more capable **AI agents**
-* 🖥️ Experiment with **local LLMs**
-* ⚡ Build useful **AI-powered applications**
-* 🐧 Keep turning Arch Linux into something unnecessarily customized
-* 🚀 Turn random ideas into actual projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=praathaaammmmm&show_icons=true&hide_border=true&theme=tokyonight" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praathaaammmmm&layout=compact&hide_border=true&theme=tokyonight" height="170">
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge)
+![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge)
+![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔥 Contributions
+## 🎯 Currently
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=praathaaammmmm\&theme=tokyonight\&hide_border=true)
-
-</div>
+- 🧠 Exploring AI and LLM applications
+- 🤖 Building AI agents
+- 🐍 Improving my Python development
+- ⚡ Working with FastAPI and backend systems
+- 🐧 Improving my Arch Linux workflow
+- 🚀 Turning random ideas into actual projects
 
 ---
 

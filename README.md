@@ -2,125 +2,105 @@
 
 # Hey, I'm Pratham 👋
 
-### Python • AI/ML • LLMs • AI Agents • FastAPI • PyTorch • Linux
+### AI Systems • Python & FastAPI • TypeScript & Next.js • Kotlin & Android • Linux
 
-Teaching computers to think. Breaking Linux. Starting too many side projects.  
-Powered by curiosity & caffeine.
+I build practical AI-powered products, backend systems, and polished developer experiences.
 
-</div>
-
----
-
-## 🧠 What I'm Into
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 LLM applications and AI agents
-- 🐍 Python development
-- ⚙️ Backend and API development
-- 🐧 Linux, Arch Linux & system customization
-- 🚀 Building projects and experimenting with ideas
-
----
-
-## 🔨 Featured Project
-
-### 🐧 Linux-DotFiles
-
-My personal **Arch Linux + Hyprland** desktop environment.
-
-A minimal and modern setup focused on development, productivity, and gaming, featuring a customized Waybar, Wofi, Kitty, live wallpapers, notifications, and a glass-inspired desktop.
-
-→ [View Linux-DotFiles](https://github.com/praathaaammmmm/Linux-DotFiles)
-
----
-
-## 🤖 AI / Development
-
-Currently working with:
-
-**AI / ML**
-- Python
-- PyTorch
-- LLM applications
-- Local LLMs
-- Ollama
-- AI agents
-- LangGraph
-- CUDA / GPU computing
-
-**Backend**
-- FastAPI
-- REST APIs
-- HTTP / Requests
-- JSON
-- Python virtual environments
-
-**Systems**
-- Linux
-- Arch Linux
-- Hyprland
-- Wayland
-- Bash
-- Shell scripting
-- System configuration
-
-**Tools**
-- Git
-- GitHub
-- Docker
-- Kitty
-- Quickshell
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Core
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-
-### Systems
-
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge)
-![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge)
-![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge)
+[LinkedIn](https://www.linkedin.com/in/pratham-singh-302437398) · [Portfolio](https://portfolio-beta-sable-wtryia44id.vercel.app)
 
 </div>
 
 ---
 
-## 🎯 Currently
+## 🚀 What I Build
 
-- 🧠 Exploring AI and LLM applications
-- 🤖 Building AI agents
-- 🐍 Improving my Python development
-- ⚡ Working with FastAPI and backend systems
-- 🐧 Improving my Arch Linux workflow
-- 🚀 Turning random ideas into actual projects
+- AI and LLM-powered applications, including RAG and multi-agent workflows
+- Production-minded Python and FastAPI backends
+- Android applications with Kotlin and Jetpack Compose
+- Modern web apps with TypeScript, Next.js, and React
+- Linux, Arch, and Hyprland desktop setups
 
 ---
 
+## ✨ Selected Projects
+
+### 🦷 [AI Dental Receptionist Demo](https://github.com/praathaaammmmm/receptionist_demo)
+
+A full dental-clinic front-desk system built with Python and FastAPI.
+
+- Patient registration, appointment booking, doctor schedules, callback tasks, and analytics
+- Guided patient assistant, voice-call simulation, QR check-in, and multilingual demo flows
+- Privacy-aware demo design, seeded data, and automated tests
+
+**Stack:** Python, FastAPI, SQLite, HTML, JavaScript, CSS
+
+### 📱 [Switch On](https://github.com/praathaaammmmm/switch_on)
+
+An Android-first doorstep electronics-repair platform for booking, diagnostics, pickup tracking, payments, and warranty claims.
+
+- Offline-first customer experience with queued booking sync
+- Device diagnostics, repair tracking, quotes, invoices, and support workflows
+- Backend API with PostgreSQL migrations and Docker-based local setup
+
+**Stack:** Kotlin, Jetpack Compose, Ktor, PostgreSQL, Retrofit, WorkManager, Docker
+
+### 🤖 [Zenith](https://github.com/praathaaammmmm/zenith)
+
+An AI-powered startup-intelligence platform that helps founders validate and develop ideas through specialized AI workflows.
+
+- Multi-agent orchestration and RAG-powered research
+- Startup validation, market research, business-model analysis, and planning workflows
+- Modern dashboard with a modular FastAPI backend
+
+**Stack:** Next.js, TypeScript, Python, FastAPI, RAG
+
+[Live demo](https://frontend-praathaaammmmm.vercel.app)
+
+### 🔐 [Dental QR](https://github.com/praathaaammmmm/Dental_QR)
+
+A secure clinic campaign-management system for QR offers and patient registrations.
+
+- Signed, privacy-preserving QR coupons with no patient data embedded
+- Role-based staff access, campaign reporting, audit logs, CSV exports, and offer redemption
+- Supports SQLite locally and PostgreSQL in deployment
+
+**Stack:** Python, FastAPI, Alembic, PostgreSQL, Docker, n8n
+
+---
+
+## 🧰 Tech Stack
+
+**AI & backend**
+
+`Python` · `FastAPI` · `LLMs` · `Ollama` · `RAG` · `AI Agents` · `REST APIs` · `SQLite` · `PostgreSQL`
+
+**Web & mobile**
+
+`TypeScript` · `Next.js` · `React` · `Vite` · `Kotlin` · `Jetpack Compose` · `Ktor`
+
+**Tools & systems**
+
+`Git` · `GitHub` · `Docker` · `Linux` · `Arch Linux` · `Hyprland` · `Bash`
+
+---
+
+## 🧪 Experiments & Side Projects
+
+- [Local LLM experiments](https://github.com/praathaaammmmm/ai-projects) using Ollama and local models
+- [Linux-DotFiles](https://github.com/praathaaammmmm/Linux-DotFiles): a custom Arch Linux + Hyprland desktop environment
+- [Portfolio](https://github.com/praathaaammmmm/portfolio): my personal developer portfolio
+
+---
+
+## 🎯 Currently Exploring
+
+- Building reliable AI workflows and agentic applications
+- Local LLM tooling and practical RAG systems
+- Better Android and full-stack product experiences
+- Clean backend architecture, testing, and deployment workflows
+
 <div align="center">
 
-### Building. Breaking. Learning. Repeating. 🚀
+### Building useful things. Learning in public. 🚀
 
 </div>

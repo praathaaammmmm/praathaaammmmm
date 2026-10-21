@@ -6,7 +6,7 @@
 
 I build practical AI-powered products, backend systems, and polished developer experiences.
 
-[LinkedIn](https://www.linkedin.com/in/pratham-singh-302437398) · [Portfolio](https://portfolio-beta-sable-wtryia44id.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/pratham-singh-302437398) · [Portfolio](https://portfolio-praathaaammmmm.vercel.app)
 
 </div>
 

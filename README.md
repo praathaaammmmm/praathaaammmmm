@@ -56,7 +56,7 @@ An AI-powered startup-intelligence platform that helps founders validate and dev
 
 [Live demo](https://frontend-praathaaammmmm.vercel.app)
 
-### 🔐 [Dental QR](https://github.com/praathaaammmmm/Dental_QR)
+### 🔐 [CAMPAIGN_MANAGEMENT](https://github.com/praathaaammmmm/Dental_QR)
 
 A secure clinic campaign-management system for QR offers and patient registrations.
 

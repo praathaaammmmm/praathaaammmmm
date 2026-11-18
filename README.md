@@ -1,111 +1,131 @@
-# Hey, I’m Pratham 👋
+# Hey, I'm Pratham 👋
 
-### Product-Focused Full-Stack & AI Developer
+### Full-Stack & AI-Focused Developer • TypeScript • Python • Kotlin • Linux
 
-I build practical web, backend, Android, and AI-assisted products—from early ideas to working workflows and polished demos.
+I build thoughtful product experiences across web, backend, mobile, and AI-assisted systems — with an emphasis on practical workflows, clear interfaces, and reliable foundations.
 
-[Portfolio](https://praathaaammmmm.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pratham-singh-302437398) · [GitHub](https://github.com/praathaaammmmm)
+[LinkedIn](https://www.linkedin.com/in/pratham-singh-302437398) · [Portfolio](https://praathaaammmmm.vercel.app/)
 
 ---
 
 ## What I Build
 
-- AI product systems, RAG workflows, and multi-agent experimentation
-- Python and FastAPI backends with thoughtful data models and APIs
-- Web products with TypeScript, Next.js, React, and Vite
-- Android applications with Kotlin, Jetpack Compose, Ktor, and WorkManager
-- Internal tools, operations workflows, and developer-focused Linux setups
+- Full-stack web products with TypeScript, Next.js, React, and Fastify
+- Python and FastAPI backend systems
+- AI-powered product workflows, RAG, and multi-agent experiments
+- Android apps with Kotlin and Jetpack Compose
+- Internal tools, role-based systems, and operational dashboards
+- Linux and developer-experience customisation
 
 ---
 
 ## Featured Projects
 
-### Internal CRM Workspace
+### 🧩 [Internal CRM Workspace](https://github.com/praathaaammmmm/crm-demo)
 
-A role-based internal workspace for tasks, growth pipeline, marketing, engineering operations, quality, meetings, and approvals.
+A role-based internal workspace for tasks, growth, marketing, engineering operations, quality, meetings, and approvals.
 
-- Dark responsive dashboards for CEO and role-specific operational views
-- Audit-focused permissions and workflow visibility
-- Read-only portfolio demo using fictional data
+- CEO and role-specific operational dashboards
+- Audit-focused permissions, approval flows, and workflow visibility
+- Built as a read-only portfolio demo with fictional data
 
 **Stack:** Next.js, TypeScript, Fastify, PostgreSQL, RBAC, Playwright
 
-[View in portfolio](https://praathaaammmmm.vercel.app/#projects)
+[View in portfolio](https://praathaaammmmm.vercel.app/)
 
-### [Receptionist Demo](https://github.com/praathaaammmmm/receptionist_demo)
+### 🦷 [Receptionist Demo](https://github.com/praathaaammmmm/receptionist_demo)
 
 A dental-clinic front-desk demo for appointment operations and patient-support workflows.
 
-- Patient registration, appointment booking, doctor schedules, callback tasks, QR check-in, and analytics
-- Guided patient assistant with chatbot and multilingual voice-call simulation flows
-- Seeded demo data and automated testing
+- Patient registration, bookings, doctor schedules, callbacks, QR check-in, and analytics
+- Guided patient assistant and local voice-call simulation
+- Seeded demo data, privacy-aware flows, and automated tests
 
 **Stack:** Python, FastAPI, SQLite, HTML, JavaScript, CSS
 
-### [Switch On](https://github.com/praathaaammmmm/switch_on)
+[View in portfolio](https://praathaaammmmm.vercel.app/)
 
-A working Android-first prototype for a doorstep electronics-repair journey.
+### 📱 [Switch On](https://github.com/praathaaammmmm/switch_on)
 
-- Device diagnostics, booking, repair tracking, quote approval, and warranty workflows
-- Offline-first booking support with queued sync
-- Kotlin Android app, Ktor API, PostgreSQL, and Docker-based local setup
-- Payments and partner operations are simulated
+An Android-first electronics-repair platform for booking, diagnostics, pickup tracking, payments, repairs, and warranty claims.
 
-**Stack:** Kotlin, Jetpack Compose, Ktor, PostgreSQL, Retrofit, WorkManager, Docker
+- Offline-first booking experience with queued synchronisation
+- Device checks, repair tracking, quotes, invoices, and support workflows
+- Operations dashboard, Kotlin/Ktor backend, PostgreSQL, and Docker-based setup
 
-### [Zenith](https://github.com/praathaaammmmm/zenith)
+> Working student prototype — payments, partner operations, and some diagnostics are simulated.
 
-An AI-powered startup-intelligence product for idea validation and development.
+**Stack:** Kotlin, Jetpack Compose, Ktor, PostgreSQL, React, TypeScript, Docker
 
-- Multi-agent workflows with retrieval-augmented research
-- Startup validation, market research, business-model analysis, and planning
+[View in portfolio](https://praathaaammmmm.vercel.app/)
+
+### 🤖 [Zenith](https://github.com/praathaaammmmm/zenith)
+
+An AI-powered startup-intelligence platform for validating ideas and creating structured business insights.
+
+- Multi-agent workflows for research, validation, and planning
+- Retrieval-Augmented Generation (RAG) for grounded responses
 - Next.js dashboard with a modular FastAPI backend
 
-**Stack:** Next.js, TypeScript, Python, FastAPI, RAG, AI Agents
+**Stack:** Next.js, TypeScript, Python, FastAPI, RAG
 
-[Live demo](https://frontend-praathaaammmmm.vercel.app/)
+[Live demo](https://frontend-praathaaammmmm.vercel.app/) · [View in portfolio](https://praathaaammmmm.vercel.app/)
 
-### [Campaign Management](https://github.com/praathaaammmmm/Campaign_Management)
+### 🔐 [Campaign Management](https://github.com/praathaaammmmm/Campaign_Management)
 
-A clinic campaign-management system for registrations, privacy-safe QR offers, staff access, and one-time redemption.
+A campaign and QR-offer management system for clinic operations.
 
-- Opaque signed QR tokens with no patient data embedded
-- Role-based staff access, audit logs, CSV exports, reporting, and delivery workflows
-- SQLite locally and PostgreSQL-ready deployment
+- Signed QR offers designed without patient data in the QR payload
+- Role-based staff access, campaign reporting, exports, and audit logs
+- Supports SQLite locally and PostgreSQL for deployment
 
-**Stack:** Python, FastAPI, PostgreSQL, Alembic, Docker, n8n
+**Stack:** Python, FastAPI, Alembic, PostgreSQL, Docker, n8n
+
+[View in portfolio](https://praathaaammmmm.vercel.app/)
+
+### ☕ [Café Demo](https://github.com/praathaaammmmm/cafe_demo)
+
+A food-first café landing-page prototype designed for a strong visual brand presentation.
+
+- Responsive React and TypeScript interface
+- Placeholder-safe content model for future client details
+- Clear scope: marketing site, not ordering or payments
+
+**Stack:** React, TypeScript, Vite, CSS
+
+[View in portfolio](https://praathaaammmmm.vercel.app/)
 
 ---
 
 ## Tech Stack
 
-**AI and backend**
+**Backend & data**
 
-`Python` · `FastAPI` · `LLMs` · `Ollama` · `RAG` · `AI Agents` · `REST APIs` · `SQLite` · `PostgreSQL`
+`Python` · `FastAPI` · `TypeScript` · `Fastify` · `Ktor` · `REST APIs` · `PostgreSQL` · `SQLite` · `Docker`
 
-**Web and mobile**
+**Web & mobile**
 
-`TypeScript` · `Next.js` · `React` · `Vite` · `Kotlin` · `Jetpack Compose` · `Ktor` · `WorkManager`
+`Next.js` · `React` · `Vite` · `Kotlin` · `Jetpack Compose` · `HTML` · `CSS`
 
-**Tools and systems**
+**AI & systems**
 
-`Git` · `GitHub` · `Docker` · `Linux` · `Arch Linux` · `Hyprland` · `Bash` · `Playwright`
+`LLMs` · `RAG` · `AI Agents` · `Ollama` · `Playwright` · `Git` · `Linux` · `Arch Linux` · `Hyprland`
 
 ---
 
-## More Work
+## Other Work
 
-- [Portfolio](https://github.com/praathaaammmmm/portfolio) — my personal developer portfolio
-- [Linux Dotfiles](https://github.com/praathaaammmmm/Linux-DotFiles) — a custom Arch Linux and Hyprland environment
-- [Local LLM experiments](https://github.com/praathaaammmmm/ai-projects) — practical experiments with Ollama and local models
+- [Linux-DotFiles](https://github.com/praathaaammmmm/Linux-DotFiles) — Arch Linux and Hyprland desktop setup
+- [AI Projects](https://github.com/praathaaammmmm/ai-projects) — local LLM and AI experiments
+- [Portfolio](https://github.com/praathaaammmmm/portfolio) — my developer portfolio
 
 ---
 
 ## Currently Exploring
 
-- Reliable AI workflows and agentic applications
-- Local LLM tooling and practical RAG systems
-- Product-oriented Android and full-stack engineering
-- Clean backend architecture, testing, and deployment workflows
+- Reliable AI workflows and practical RAG systems
+- Better internal tools and role-based product experiences
+- Product-minded Android and full-stack development
+- Testing, deployment, and clean backend architecture
 
-Building useful things and learning in public.
+### Building useful things. Learning in public. 🚀
